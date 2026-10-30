@@ -28,7 +28,7 @@ coreutils-env           9.11-r0           apk
 coreutils-fmt           9.11-r0           apk                              
 coreutils-sha512sum     9.11-r0           apk                              
 cryptography            50.0.2            python          (+1 duplicate)   
-curl                    8.22.0-r0         apk                              
+curl                    8.23.0-r0         apk                              
 distlib                 0.4.2             python                           
 distro                  1.9.0             python                           
 findutils               4.10.0-r1         apk                              
@@ -52,7 +52,7 @@ libattr                 2.5.2-r2          apk
 libbsd                  0.12.2-r0         apk                              
 libbz2                  1.0.8-r6          apk                              
 libcrypto3              3.5.9-r0          apk                              
-libcurl                 8.22.0-r0         apk                              
+libcurl                 8.23.0-r0         apk                              
 libexpat                2.9.0-r0          apk                              
 libffi                  3.5.2-r1          apk                              
 libgcc                  14.2.0-r6         apk                              
@@ -86,16 +86,16 @@ pip                     UNKNOWN           UnknownPackage
 platformdirs            4.10.0            python                           
 platformdirs            4.4.0             python                           
 procps-ng               4.0.6-r0          apk                              
-pyc                     3.14.8-r0         apk                              
+pyc                     3.14.10-r1        apk                              
 pycparser               3.12              python                           
 pygments                2.20.0            python                           
 pyproject-hooks         1.2.0             python                           
-python3                 3.14.8-r0         apk                              
+python3                 3.14.10-r1        apk                              
 python3                 unknown           deb                              
 python3-cryptography    unknown           deb                              
 python3-openssl         unknown           deb                              
-python3-pyc             3.14.8-r0         apk                              
-python3-pycache-pyc0    3.14.8-r0         apk                              
+python3-pyc             3.14.10-r1        apk                              
+python3-pycache-pyc0    3.14.10-r1        apk                              
 readline                8.3.3-r1          apk                              
 requests                2.34.2            python                           
 resolvelib              1.2.1             python                           
