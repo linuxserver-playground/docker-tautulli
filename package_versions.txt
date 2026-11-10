@@ -33,9 +33,9 @@ distlib                 0.4.4             python
 distro                  1.9.0             python                           
 findutils               4.10.0-r1         apk                              
 gdbm                    1.26-r0           apk                              
-git                     2.54.0-r0         apk                              
+git                     2.54.1-r0         apk                              
 git                     unknown           deb                              
-git-init-template       2.54.0-r0         apk                              
+git-init-template       2.54.1-r0         apk                              
 gui                     UNKNOWN           binary                           
 gui-32                  UNKNOWN           binary                           
 gui-64                  UNKNOWN           binary                           
