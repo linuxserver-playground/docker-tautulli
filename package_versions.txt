@@ -92,7 +92,6 @@ pyproject-hooks         1.3.3             python
 python3                 3.14.10-r1        apk                              
 python3                 unknown           deb                              
 python3-cryptography    unknown           deb                              
-python3-openssl         unknown           deb                              
 python3-pyc             3.14.10-r1        apk                              
 python3-pycache-pyc0    3.14.10-r1        apk                              
 readline                8.3.3-r1          apk                              
